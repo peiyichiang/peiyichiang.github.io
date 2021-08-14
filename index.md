@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## A little Bit About Me...
 
-You can use the [editor on GitHub](https://github.com/peiyichiang/peiyichiang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Pei Yi Chiang and I am a third year student at Georgia Tech majoring in Computer Science. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+#### HCI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Gaming
+1. Undercurrent
+[Link](url)
+3. Dungeon Crawler
+![Image](src)
+
+#### Animation
+[Link](url)
+
 
 ```markdown
 Syntax highlighted code block
